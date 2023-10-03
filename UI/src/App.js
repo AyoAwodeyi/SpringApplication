@@ -15,15 +15,13 @@ function App() {
       <h1> App Name</h1>
     </div>
     
-    <div className='Buttons'>
+
 
 <button> Back</button>
 <button> Run </button>
 
 
 
-      </div>
-      
       </>
 
 
